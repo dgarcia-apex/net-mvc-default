@@ -28,3 +28,21 @@ C:\Users\dgarcia\OneDrive - Apex Systems\Documents\Visual Studio Code Projects\n
 C:\Users\dgarcia\OneDrive - Apex Systems\Documents\Visual Studio Code Projects\net mvc default\obj\Debug\net8.0\net mvc default.pdb
 C:\Users\dgarcia\OneDrive - Apex Systems\Documents\Visual Studio Code Projects\net mvc default\obj\Debug\net8.0\net mvc default.genruntimeconfig.cache
 C:\Users\dgarcia\OneDrive - Apex Systems\Documents\Visual Studio Code Projects\net mvc default\obj\Debug\net8.0\ref\net mvc default.dll
+C:\Users\dgarcia\OneDrive - Apex Systems\Documents\Visual Studio Code Projects\net mvc default\bin\Debug\net8.0\Microsoft.ApplicationInsights.dll
+C:\Users\dgarcia\OneDrive - Apex Systems\Documents\Visual Studio Code Projects\net mvc default\bin\Debug\net8.0\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\dgarcia\OneDrive - Apex Systems\Documents\Visual Studio Code Projects\net mvc default\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\dgarcia\OneDrive - Apex Systems\Documents\Visual Studio Code Projects\net mvc default\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\dgarcia\OneDrive - Apex Systems\Documents\Visual Studio Code Projects\net mvc default\bin\Debug\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\dgarcia\OneDrive - Apex Systems\Documents\Visual Studio Code Projects\net mvc default\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\dgarcia\OneDrive - Apex Systems\Documents\Visual Studio Code Projects\net mvc default\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dgarcia\OneDrive - Apex Systems\Documents\Visual Studio Code Projects\net mvc default\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\dgarcia\OneDrive - Apex Systems\Documents\Visual Studio Code Projects\net mvc default\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\dgarcia\OneDrive - Apex Systems\Documents\Visual Studio Code Projects\net mvc default\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\dgarcia\OneDrive - Apex Systems\Documents\Visual Studio Code Projects\net mvc default\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\dgarcia\OneDrive - Apex Systems\Documents\Visual Studio Code Projects\net mvc default\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\dgarcia\OneDrive - Apex Systems\Documents\Visual Studio Code Projects\net mvc default\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\dgarcia\OneDrive - Apex Systems\Documents\Visual Studio Code Projects\net mvc default\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dgarcia\OneDrive - Apex Systems\Documents\Visual Studio Code Projects\net mvc default\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\dgarcia\OneDrive - Apex Systems\Documents\Visual Studio Code Projects\net mvc default\obj\Debug\net8.0\net mvc default.csproj.AssemblyReference.cache
+C:\Users\dgarcia\OneDrive - Apex Systems\Documents\Visual Studio Code Projects\net mvc default\obj\Debug\net8.0\net mvc default.sourcelink.json
+C:\Users\dgarcia\OneDrive - Apex Systems\Documents\Visual Studio Code Projects\net mvc default\obj\Debug\net8.0\net mvc .51C15A63.Up2Date
