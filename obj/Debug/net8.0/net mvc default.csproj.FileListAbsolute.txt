@@ -1,0 +1,30 @@
+C:\Users\dgarcia\OneDrive - Apex Systems\Documents\Visual Studio Code Projects\net mvc default\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\dgarcia\OneDrive - Apex Systems\Documents\Visual Studio Code Projects\net mvc default\bin\Debug\net8.0\appsettings.json
+C:\Users\dgarcia\OneDrive - Apex Systems\Documents\Visual Studio Code Projects\net mvc default\bin\Debug\net8.0\net mvc default.staticwebassets.runtime.json
+C:\Users\dgarcia\OneDrive - Apex Systems\Documents\Visual Studio Code Projects\net mvc default\bin\Debug\net8.0\net mvc default.exe
+C:\Users\dgarcia\OneDrive - Apex Systems\Documents\Visual Studio Code Projects\net mvc default\bin\Debug\net8.0\net mvc default.deps.json
+C:\Users\dgarcia\OneDrive - Apex Systems\Documents\Visual Studio Code Projects\net mvc default\bin\Debug\net8.0\net mvc default.runtimeconfig.json
+C:\Users\dgarcia\OneDrive - Apex Systems\Documents\Visual Studio Code Projects\net mvc default\bin\Debug\net8.0\net mvc default.dll
+C:\Users\dgarcia\OneDrive - Apex Systems\Documents\Visual Studio Code Projects\net mvc default\bin\Debug\net8.0\net mvc default.pdb
+C:\Users\dgarcia\OneDrive - Apex Systems\Documents\Visual Studio Code Projects\net mvc default\obj\Debug\net8.0\net mvc default.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dgarcia\OneDrive - Apex Systems\Documents\Visual Studio Code Projects\net mvc default\obj\Debug\net8.0\net mvc default.AssemblyInfoInputs.cache
+C:\Users\dgarcia\OneDrive - Apex Systems\Documents\Visual Studio Code Projects\net mvc default\obj\Debug\net8.0\net mvc default.AssemblyInfo.cs
+C:\Users\dgarcia\OneDrive - Apex Systems\Documents\Visual Studio Code Projects\net mvc default\obj\Debug\net8.0\net mvc default.csproj.CoreCompileInputs.cache
+C:\Users\dgarcia\OneDrive - Apex Systems\Documents\Visual Studio Code Projects\net mvc default\obj\Debug\net8.0\net mvc default.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dgarcia\OneDrive - Apex Systems\Documents\Visual Studio Code Projects\net mvc default\obj\Debug\net8.0\net mvc default.RazorAssemblyInfo.cache
+C:\Users\dgarcia\OneDrive - Apex Systems\Documents\Visual Studio Code Projects\net mvc default\obj\Debug\net8.0\net mvc default.RazorAssemblyInfo.cs
+C:\Users\dgarcia\OneDrive - Apex Systems\Documents\Visual Studio Code Projects\net mvc default\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\dgarcia\OneDrive - Apex Systems\Documents\Visual Studio Code Projects\net mvc default\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\dgarcia\OneDrive - Apex Systems\Documents\Visual Studio Code Projects\net mvc default\obj\Debug\net8.0\staticwebassets\msbuild.net mvc default.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\dgarcia\OneDrive - Apex Systems\Documents\Visual Studio Code Projects\net mvc default\obj\Debug\net8.0\staticwebassets\msbuild.build.net mvc default.props
+C:\Users\dgarcia\OneDrive - Apex Systems\Documents\Visual Studio Code Projects\net mvc default\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.net mvc default.props
+C:\Users\dgarcia\OneDrive - Apex Systems\Documents\Visual Studio Code Projects\net mvc default\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.net mvc default.props
+C:\Users\dgarcia\OneDrive - Apex Systems\Documents\Visual Studio Code Projects\net mvc default\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\dgarcia\OneDrive - Apex Systems\Documents\Visual Studio Code Projects\net mvc default\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\dgarcia\OneDrive - Apex Systems\Documents\Visual Studio Code Projects\net mvc default\obj\Debug\net8.0\scopedcss\bundle\net mvc default.styles.css
+C:\Users\dgarcia\OneDrive - Apex Systems\Documents\Visual Studio Code Projects\net mvc default\obj\Debug\net8.0\scopedcss\projectbundle\net mvc default.bundle.scp.css
+C:\Users\dgarcia\OneDrive - Apex Systems\Documents\Visual Studio Code Projects\net mvc default\obj\Debug\net8.0\net mvc default.dll
+C:\Users\dgarcia\OneDrive - Apex Systems\Documents\Visual Studio Code Projects\net mvc default\obj\Debug\net8.0\refint\net mvc default.dll
+C:\Users\dgarcia\OneDrive - Apex Systems\Documents\Visual Studio Code Projects\net mvc default\obj\Debug\net8.0\net mvc default.pdb
+C:\Users\dgarcia\OneDrive - Apex Systems\Documents\Visual Studio Code Projects\net mvc default\obj\Debug\net8.0\net mvc default.genruntimeconfig.cache
+C:\Users\dgarcia\OneDrive - Apex Systems\Documents\Visual Studio Code Projects\net mvc default\obj\Debug\net8.0\ref\net mvc default.dll
